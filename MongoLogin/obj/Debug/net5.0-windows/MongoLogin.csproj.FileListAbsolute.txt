@@ -1,0 +1,108 @@
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.exe
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.deps.json
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.runtimeconfig.json
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.runtimeconfig.dev.json
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\ref\MongoLogin.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.pdb
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.csproj.AssemblyReference.cache
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.AssemblyInfoInputs.cache
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.AssemblyInfo.cs
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\ref\MongoLogin.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.pdb
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.genruntimeconfig.cache
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\snappy32.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\snappy64.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\libzstd.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\DnsClient.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\SharpCompress.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.Form1.resources
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.csproj.GenerateResource.cache
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.csproj.CopyComplete
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.Register.resources
+C:\Users\Dragos\Desktop\Proiect informatica\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.Admin.resources
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\snappy32.dll
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\snappy64.dll
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\libzstd.dll
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.exe
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.deps.json
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.runtimeconfig.json
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.runtimeconfig.dev.json
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.dll
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\ref\MongoLogin.dll
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.pdb
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\DnsClient.dll
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\SharpCompress.dll
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.csproj.AssemblyReference.cache
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.Admin.resources
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.Form1.resources
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.Register.resources
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.csproj.GenerateResource.cache
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.AssemblyInfoInputs.cache
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.AssemblyInfo.cs
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.csproj.CopyComplete
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.dll
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\ref\MongoLogin.dll
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.pdb
+C:\Users\Dragos\Desktop\Proiect info\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.genruntimeconfig.cache
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\snappy32.dll
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\snappy64.dll
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\libzstd.dll
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.exe
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.deps.json
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.runtimeconfig.json
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.runtimeconfig.dev.json
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.dll
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoLogin.pdb
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\DnsClient.dll
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\SharpCompress.dll
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.csproj.AssemblyReference.cache
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.Admin.resources
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.Form1.resources
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.Register.resources
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.csproj.GenerateResource.cache
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.AssemblyInfoInputs.cache
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.AssemblyInfo.cs
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.csproj.CoreCompileInputs.cache
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.csproj.CopyComplete
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.dll
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\refint\MongoLogin.dll
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.pdb
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\MongoLogin.genruntimeconfig.cache
+D:\Programare\Proiecte_C#\MongoLogin\MongoLogin\obj\Debug\net5.0-windows\ref\MongoLogin.dll
